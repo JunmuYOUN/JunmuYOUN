@@ -1,9 +1,13 @@
 ## Hi there 👋
 
+🙋 Junmu Youn
+
 📫 jmyoun@khu.ac.kr
+
 🏢 KHAO 107, Kyung Hee University, Yongin, ROK
 
 ✏️ School of Space Research, Kyung Hee University (on-going)
+
 🎓 Department of Physics, The Catholic University of Korea (CUK) (B.S.)
 
 📰 Can we properly determine differential emission measures from Solar Orbiter/EUI/FSI with deep learning? (A&A)
