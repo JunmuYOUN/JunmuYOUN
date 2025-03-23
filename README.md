@@ -12,7 +12,7 @@
 
 📰 Can we properly determine differential emission measures from Solar Orbiter/EUI/FSI with deep learning? (A&A)
          
-          <[doi.org/10.1051/0004-6361/202452304](https://doi.org/10.1051/0004-6361/202452304)>
+          [doi.org/10.1051/0004-6361/202452304](https://doi.org/10.1051/0004-6361/202452304)
 
 <!--
 **JunmuYOUN/JunmuYOUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
