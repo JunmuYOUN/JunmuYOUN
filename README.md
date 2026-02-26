@@ -6,7 +6,7 @@
 
 🏢 KHAO 107, Kyung Hee University, Yongin, ROK
 
-✏️ School of Space Research, Kyung Hee University (Ph.D Candidate)
+✏️ School of Space Research, Kyung Hee University (Ph.D. Candidate)
 
 🎓 Department of Physics, The Catholic University of Korea (CUK) (B.S.)
 
