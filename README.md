@@ -11,6 +11,7 @@
 🎓 Department of Physics, The Catholic University of Korea (CUK) (B.S.)
 
 📰 1. [Can we properly determine differential emission measures from Solar Orbiter/EUI/FSI with deep learning? (A&A)](https://doi.org/10.1051/0004-6361/202452304)
+
 📰 2. [Application of Deep Learning and Explainable AI to NIR Auroral Detection in Satellite Time-Series Images (Space Weather)](in press)
 
 <!--
